@@ -21,7 +21,7 @@
     url("../fonts/OpenSans/Open_Sans_Bold.svg#OpenSans_Regular") format("svg"); /* Legacy iOS */
 }
 
-/* Taken from Bootstrap */
+/* #f0f0f0Taken from Bootstrap */
 .sr-only {
     position: absolute;
     overflow: hidden;
@@ -35,7 +35,7 @@
 
 /** Main Styling (for 1080p) **/
 .body {
-    background-color: #f0f0f0;
+    background-color: #0A5694;
     font-family: "OpenSans_Regular", Arial;
 }
 
