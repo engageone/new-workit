@@ -240,7 +240,8 @@ sub {
 
 .player {
     float: left;
-    margin-left:250px;
+    margin-left:110px;
+    margin-top:65px;
 }
 
 .fullscreen .player {
