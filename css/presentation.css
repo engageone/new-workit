@@ -735,6 +735,7 @@
 
     .cta--side {
         height: 450px;
+        margin-top:30px;
     }
 
     .cta__icon {
