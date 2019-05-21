@@ -732,6 +732,7 @@ sub {
     .player__wrapper {
         width: 673px;
         height: 377px;
+        margin-top:-383px;
     }
 
     .timeline,
