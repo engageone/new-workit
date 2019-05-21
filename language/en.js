@@ -138,8 +138,69 @@ var Translations = {
                 {
                     "cardId": "a6003b49",
                     "width": 15
-                }
+                },
             ]
-        }
+        },
+        {
+            "label": " portifolio diversification",
+            "states": [
+                {
+                    "cardId": "f3a7ae85",
+                    "width": 15
+                },
+                
+            ]
+        },
+        {
+            "label": " Business Continuity",
+            "states": [
+                {
+                    "cardId": "247089d6",
+                    "width": 15
+                },
+                
+            ]
+        },
+        
+        {
+            "label": " Final_Needs",
+            "states": [
+                {
+                    "cardId": "4d18f00e",
+                    "width": 15
+                },
+                
+            ]
+        }, 
+         {
+            "label": " Customer Experiance",
+            "states": [
+                {
+                    "cardId": "c0024b69",
+                    "width": 15
+                },
+                
+            ]
+        },
+                 {
+            "label": " Speak to Rm",
+            "states": [
+                {
+                    "cardId": "27f7ae70",
+                    "width": 15
+                },
+                
+            ]
+        }, 
+         {
+            "label": " why donot like to speak to RM",
+            "states": [
+                {
+                    "cardId": "dad66a40",
+                    "width": 15
+                },
+                
+            ]
+        }, 
     ]
 }
