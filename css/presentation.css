@@ -376,7 +376,7 @@ width: 1003px;
     margin: 0 auto;
     width: 30px;
     height: 30px;
-    background: url("../images/timeline_controls.png") no-repeat;
+    background: url("../images/play-btn-hi.png") no-repeat;
     background-position-y: 50%;
     background-position: var(--timeline-bgX) var(--timeline-bgY);
     background-size: 2700% 300%;
