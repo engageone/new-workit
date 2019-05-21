@@ -1,14 +1,16 @@
 /** Global Styling **/
 
 #timelineBar {
-    width: 1200px;
+   
+width: 1003px;
     /* margin: auto; */
     cursor: pointer;
     position: relative;
-    
     height: 50px;
-    background-color:#0A5694;
-    margin-left:500px;}
+    background-color: #0A5694;
+    margin-top: -68px;
+    margin-left: 358px;
+}
 
 
 
