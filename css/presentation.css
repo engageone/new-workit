@@ -1,17 +1,11 @@
 /** Global Styling **/
 
-#timelineBar {
-   
-width: 1003px;
-    /* margin: auto; */
-    cursor: pointer;
+.sideButtons li {
+    width: 76px;
+    height: 67px;
+    background: url("../images/side-btns.png");
     position: relative;
-    height: 50px;
-    background-color: #0A5694;
-    margin-top: -68px;
-    margin-left: 358px;
 }
-
 
 
 @font-face {
