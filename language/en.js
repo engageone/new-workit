@@ -118,7 +118,7 @@ var Translations = {
             "states": [
                 {
                     "cardId": "START",
-                    "width": 15
+                    "width": 10
                 }
             ]
         },
@@ -127,7 +127,7 @@ var Translations = {
             "states": [
                 {
                     "cardId": " fe1820ca",
-                    "width": 15
+                    "width": 10
                 },
                 
             ]
@@ -137,7 +137,7 @@ var Translations = {
             "states": [
                 {
                     "cardId": "a6003b49",
-                    "width": 15
+                    "width": 10
                 },
             ]
         },
@@ -146,7 +146,7 @@ var Translations = {
             "states": [
                 {
                     "cardId": "f3a7ae85",
-                    "width": 15
+                    "width": 10
                 },
                 
             ]
@@ -156,7 +156,7 @@ var Translations = {
             "states": [
                 {
                     "cardId": "247089d6",
-                    "width": 15
+                    "width": 10
                 },
                 
             ]
@@ -167,7 +167,7 @@ var Translations = {
             "states": [
                 {
                     "cardId": "4d18f00e",
-                    "width": 15
+                    "width": 10
                 },
                 
             ]
@@ -177,7 +177,7 @@ var Translations = {
             "states": [
                 {
                     "cardId": "c0024b69",
-                    "width": 15
+                    "width": 10
                 },
                 
             ]
@@ -187,7 +187,7 @@ var Translations = {
             "states": [
                 {
                     "cardId": "27f7ae70",
-                    "width": 15
+                    "width": 10
                 },
                 
             ]
@@ -197,7 +197,7 @@ var Translations = {
             "states": [
                 {
                     "cardId": "dad66a40",
-                    "width": 15
+                    "width": 10
                 },
                 
             ]
