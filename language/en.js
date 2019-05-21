@@ -123,24 +123,21 @@ var Translations = {
             ]
         },
         {
-            "label": "Final Needs",
+            "label": " Needs",
             "states": [
                 {
-                    "cardId": " 4d18f00e",
+                    "cardId": " fe1820ca",
                     "width": 15
                 },
-                {
-                    "cardId": "c23a68c9",
-                    "width": 20
-                }
+                
             ]
         },
         {
-            "label": "Thank You",
+            "label": "EstateLiquidity",
             "states": [
                 {
-                    "cardId": "7b0123a5",
-                    "width": 40
+                    "cardId": "a6003b49",
+                    "width": 15
                 }
             ]
         }
