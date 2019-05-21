@@ -1,4 +1,17 @@
 /** Global Styling **/
+
+#timelineBar {
+    width: 1200px;
+    /* margin: auto; */
+    cursor: pointer;
+    position: relative;
+    
+    height: 50px;
+    background-color:#0A5694;
+    margin-left:500px;}
+
+
+
 @font-face {
     font-family: "OpenSans_Regular";
 
