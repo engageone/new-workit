@@ -118,16 +118,16 @@ var Translations = {
             "states": [
                 {
                     "cardId": "START",
-                    "width": 20
+                    "width": 15
                 }
             ]
         },
         {
-            "label": "Your Account",
+            "label": "Final Needs",
             "states": [
                 {
-                    "cardId": "77a834f0",
-                    "width": 20
+                    "cardId": " 4d18f00e",
+                    "width": 15
                 },
                 {
                     "cardId": "c23a68c9",
